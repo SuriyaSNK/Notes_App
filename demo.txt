@@ -3,4 +3,4 @@ helo
 fine thre
 arigato
 thinking
-bye
+BYE
